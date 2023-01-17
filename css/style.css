@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+    margin: 0;
+}
+
+#container {
+    width: 100%;
+}
+
+#header {
+    background-color: #6FE9FF;
+}
