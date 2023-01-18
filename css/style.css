@@ -47,3 +47,16 @@ body {
     text-align: center;
     text-decoration: none;
 }
+
+#content_container {
+    width: 100%;
+    height: 72%;
+}
+.content_title {
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Arial; /*Forandre til en passende font*/
+    text-align: center;
+    text-decoration: none;
+}
