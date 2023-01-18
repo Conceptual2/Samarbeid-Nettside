@@ -63,8 +63,14 @@ body {
 
 #content {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.video_box {
-    width: 100%;
+#video_content_box {
+    background-color: #6FE9FF;
+    width: 1300px;
+    height: 600px;
+    border-radius: 10px;
 }
