@@ -61,6 +61,15 @@ body {
     text-decoration: none;
 }
 
+.content_text {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Tahoma;
+    text-align: center;
+    text-decoration: none;
+}
+
 #content {
     width: 100%;
     display: flex;
@@ -77,16 +86,23 @@ body {
 
 #om_oss_content_box {
     background-color: #6FE9FF;
-    width: 800px;
+    width: 600px;
     height: 600px;
     border-radius: 10px;
 }
 
 #video_content_box {
     background-color: #6FE9FF;
-    width: 1300px;
+    width: 1200px;
     height: 600px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#video {
+    width: 1150px;
 }
 
 #spill_content_box {
