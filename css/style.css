@@ -54,7 +54,7 @@ body {
 
 .content_title {
     color: #FFFFFF;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: 500;
     font-family: Tahoma; /*Forandre til en passende font*/
     text-align: center;
@@ -84,10 +84,6 @@ body {
     border-radius: 10px;
 }
 
-.hjemme_image {
-    width: 
-}
-
 #om_oss_content_box {
     background-color: #6FE9FF;
     width: 600px;
@@ -102,7 +98,7 @@ body {
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: bottom;
 }
 
 #video {
